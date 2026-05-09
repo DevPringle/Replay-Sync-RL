@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.env
+
+config.json
+history.json
+state.json
+
+Thumbs.db
+Desktop.ini
